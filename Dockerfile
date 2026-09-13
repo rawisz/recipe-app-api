@@ -1,5 +1,5 @@
 FROM python:3.12.3-alpine3.19
-LABEL maintainer="rawisz"
+LABEL maintainer="Rafal Wiszowaty"
 
 ENV PYTHONUNBUFFERED 1
 
