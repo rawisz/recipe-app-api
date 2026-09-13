@@ -71,7 +71,7 @@ docker compose run --rm app sh -c "python manage.py test"
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rwiszowaty/recipe-app-api.git
 cd recipe-app-api
 ```
 
